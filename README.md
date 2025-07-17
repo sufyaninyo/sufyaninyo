@@ -1,59 +1,64 @@
-## 🌟 About Me
+# 👋 Hey there, I'm **Sufyanito**
 
-Hey! I'm **Sufyan**, a curious developer that nobody know about
-I'm always experimenting, learning, and pushing the boundaries of what's possible  
-From ethical hacking to game development and creative scripting — I make things that matter (and sometimes just for fun).
+Welcome to my GitHub profile! I'm a passionate learner, coder, and creative explorer. Whether it's building something cool, diving into cybersecurity, or crafting elegant code — I'm always on the move.
+
+---
+
+## 🚀 About Me
+- 🔭 Always learning & building new things
+- 💻 Love programming and books
+- 🔍 Curious mind always exploring new ideas
+- 📚 Self-learner & proud of it
 
 ---
 
 ## 🧠 Skills
+```txt
+- Python 🐍   | Discord Bots 🤖 | HTML & CSS 🌐
+- JavaScript 💡 | OSINT 🔎         | Linux Basics 🐧
+- Creative Writing ✍️ | Reverse Engineering 🧩
+```
 
-- 💻 Languages: Python, JavaScript, HTML, CSS  
-- 🔍 OSINT & Cybersecurity Basics  
-- 🎮 Game Development (pixel art, narrative design)  
-- 🛠️ Building Discord Bots with `discord.py`  
+---
+
+## 📬 Contact
+- Discord: `sufyanito`
+- Buy me a coffee: [☕ Ko-fi](https://ko-fi.com/sufyanito)
+
+---
+
+## 🛡️ Badges & Shoutouts
+- ⭐ Stars: `xx+`
+- 👥 Followers: `xx+`
+- 💬 Active Contributor
+- 🕶️ Always up to something cool
 
 ---
 
 ## 📊 GitHub Stats
-
-![Sufyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufyaninyo&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufyaninyo&layout=compact&theme=radical)
+![Sufyanito's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sufyaninyo&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sufyaninyo&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=sufyaninyo&theme=radical&margin-w=10&margin-h=10)
-
----
-
-## 📫 Contact
-
-Wanna connect or collaborate? Reach me on Discord:  
-**`sufyanito`**
+![Trophies](https://github-profile-trophy.vercel.app/?username=Sufyaninyo&theme=onedark&margin-w=10&margin-h=10)
 
 ---
 
-## ✨ Extras
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sufyaninyo&theme=tokyonight&hide_border=true)
 
-- 📌 Followers: ![GitHub followers](https://img.shields.io/github/followers/sufyaninyo?label=Followers&style=social)  
-- 🌟 Stars given/received: ![GitHub User's stars](https://img.shields.io/github/stars/sufyaninyo?style=social)  
-- 🕓 Last activity: _Always cooking something cool_
+---
 
+## ✨ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Sufyaninyo&color=blue)
 
-<!--
-**sufyaninyo/sufyaninyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💡 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Thanks for stopping by 🚀✨
